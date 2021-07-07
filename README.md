@@ -110,11 +110,17 @@
 
 # 취미
 
+<img alt="State : Dead" src="https://img.shields.io/badge/State-Dead-red.svg">
+
  - GML
 > `Game Maker Language`. 화려한 그래픽이 달린 게임은 개발하고 싶었고, `DirectX 8`을 쓰자니 상상만 해도 어질어질해져서 2010년부터 2014년까지 신세를 진 스크립트 언어. [마크 오버마스](https://ko.wikipedia.org/wiki/%EB%A7%88%EB%A5%B4%ED%81%AC_%EC%98%A4%EB%B2%84%EB%A5%B4%EB%A7%88%EB%A5%B4%EC%8A%A4_(%EC%BB%B4%ED%93%A8%ED%84%B0_%EA%B3%BC%ED%95%99%EC%9E%90))가 개발한 [게임메이커](https://ko.wikipedia.org/wiki/%EA%B2%8C%EC%9E%84%EB%A9%94%EC%9D%B4%EC%BB%A4) 엔진에 사용되었다. 비록 저평가를 받고 있었지만`(엔진의 이름도 한 몫 거들었다고 생각한다)`, 그래픽, 사운드, 동적 리소스 로딩, 파일 I/O, 네트워킹, DLL mount 까지 게임 개발에 필요한 기능은 전부 갖추고 있었다. 2021년 기준 [게임메이커 스튜디오:2](https://www.yoyogames.com/en/get)로 버전이 올라가며 언어 스펙과 엔진의 기능, 퍼포먼스, 가격 정책 등이 달라진 상태.
 
- - [vJass(Jass2)](vJass/README.md)
-> 2009년부터 사용해 온 스크립트 언어. (주)Blizzard에서 `Warcraft III`의 게임 시나리오(.w3m,.w3x) 트리거 데이터를 작성하기 위해 개발된 절차적 언어로, 이후 [Vexorian](https://www.hiveworkshop.com/members/vexorian.10079/)에 의해 개발된 객체 지향 구문 Post-Interpreter [JassHelper](https://wc3modding.info/4263/the-jass-newgen-pack-jngp-2-0/)가 널리 퍼지게 되어 **Vexorian's Jass(이하 vJass)** 로 발전하게 된다. 다양한 제작자의 아이디어와 작품이 궁금하다면 한국 [워크래프트 리포지드 유즈맵 포럼](https://cafe.naver.com/w3umf)을 추천한다. 대학교 2학년 무렵, `동동주` 닉네임으로 활동하며 입문자가 참고할 만한 [학습 가이드라인](https://cafe.naver.com/w3umf/101653)을 작성해 두었다.
+<img alt="State : Dead" src="https://img.shields.io/badge/State-Dead-red.svg">
 
  - Lua
-> (주)Blizzard에서 `Warcraft : Reforged`를 발매하며 새롭게 지원하게 된 스크립트 언어. 기존 Jass의 main 함수 대신 Javascript의 IIFE비스무리한 방법을 사용해 필요한 스크립트를 실행시켜야 했다. 2021년 기준, 한국 [워크래프트 리포지드 유즈맵 포럼](https://cafe.naver.com/w3umf)에서는 거의 언급되지 않는 추세.
+> (주)Blizzard에서 `Warcraft : Reforged`를 발매하며 vJass 또는 Lua를 사용할 수 있도록 엔진을 뜯어고쳐줬다. 기존 Jass의 main 함수 대신 Javascript의 IIFE비스무리한 방법을 사용해 필요한 스크립트를 실행시켜야 했다. 2021년 기준, 한국 [워크래프트 리포지드 유즈맵 포럼](https://cafe.naver.com/w3umf)에서는 거의 언급되지 않는 추세.
+
+<img alt="State : Active" src="https://img.shields.io/badge/State-Active-green.svg">
+
+ - [vJass(Jass2)](vJass/README.md)
+> 2009년부터 사용해 온 스크립트 언어. (주)Blizzard에서 `Warcraft III`의 게임 시나리오(.w3m,.w3x) 트리거 데이터를 작성하기 위해 개발된 절차적 언어로, 이후 [Vexorian](https://www.hiveworkshop.com/members/vexorian.10079/)에 의해 개발된 객체 지향 구문 Post-Interpreter [JassHelper](https://wc3modding.info/4263/the-jass-newgen-pack-jngp-2-0/)가 널리 퍼지게 되어 **Vexorian's Jass(이하 vJass)** 로 발전하게 된다. 다양한 제작자의 아이디어와 작품이 궁금하다면 한국 [워크래프트 리포지드 유즈맵 포럼](https://cafe.naver.com/w3umf)을 추천한다. 대학교 2학년 무렵, `동동주` 닉네임으로 활동하며 입문자가 참고할 만한 [학습 가이드라인](https://cafe.naver.com/w3umf/101653)을 작성해 두었다.
