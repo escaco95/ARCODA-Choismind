@@ -24,6 +24,7 @@
   - Electron
 - [프로젝트](#프로젝트)
   - [GridAnnotationTool](GAT)
+  - [GeoVision](GeoVision)
 - [취미](#취미)
   - GML
   - [vJass(Jass2)](vJass/README.md)
@@ -67,6 +68,15 @@
 
 <p align="center">
   <img src="https://github.com/escaco95/ARCODA-Choismind/blob/main/SAMPLE-A.png?raw=true" width="400" height="250"><img src="https://github.com/escaco95/ARCODA-Choismind/blob/main/SAMPLE-B.png?raw=true" width="400" height="250">
+</p>
+
+ - [GeoVision](GeoVision)
+> 2019년, 학부 연구실([InfoLab](http://infolab.kunsan.ac.kr/), 구 MCALab)에서 진행한 Urban AI Network 솔루션 중 내가 맡은 SubProject. 해당 대회 시연 당시에는 베타였으며, 이후 교내 대회 출품 시점에서 1.0 완성.
+[관련기사1](https://www.ebn.co.kr/news/view/1014791?kind=&key=&shword=&page=4144&period=)
+[관련기사2](https://wowtale.net/2019/12/24/socar-and-kiise-hosted-ai-video-analysis-contest/)
+
+<p align="center">
+  <img src="https://github.com/escaco95/ARCODA-Choismind/blob/main/GeoVision/DeepGeoEvaluator.png?raw=true" width="400" height="250"><img src="https://github.com/escaco95/ARCODA-Choismind/blob/main/GeoVision/GeoVision Task Manager.png?raw=true" width="400" height="250">
 </p>
 
 # 취미
