@@ -32,27 +32,27 @@
 
   - [vJass(Jass2)](vJass/README.md)
  
-    > 2013. [바인딩 오브 아제로스](https://cafe.naver.com/w3umf/89149)
+    > 2013) [바인딩 오브 아제로스](https://cafe.naver.com/w3umf/89149)
 
-    > 2013. [좀비 쉘터 데저트](https://cafe.naver.com/w3umf/87173)
+    > 2013) [좀비 쉘터 데저트](https://cafe.naver.com/w3umf/87173)
 
-    > 2013. [랜덤 능력 타워 디펜스 I](https://cafe.naver.com/w3umf/88712)
+    > 2013) [랜덤 능력 타워 디펜스 I](https://cafe.naver.com/w3umf/88712)
     
-    > 2013. [피전트 짬밥 밀리 서바이벌](https://cafe.naver.com/w3umf/88917)
+    > 2013) [피전트 짬밥 밀리 서바이벌](https://cafe.naver.com/w3umf/88917)
     
-    > 2014. [영웅 밀어 떨어뜨리기](https://cafe.naver.com/w3umf/95688) [플레이 영상](https://www.youtube.com/watch?v=4Lw9P9Y7WJE)
+    > 2014) [영웅 밀어 떨어뜨리기](https://cafe.naver.com/w3umf/95688) [플레이 영상](https://www.youtube.com/watch?v=4Lw9P9Y7WJE)
     
-    > 2014. [동물원디펜스](https://cafe.naver.com/w3umf/95830) [플레이 영상](https://www.youtube.com/watch?v=PkqmVhJN-sM)
+    > 2014) [동물원디펜스](https://cafe.naver.com/w3umf/95830) [플레이 영상](https://www.youtube.com/watch?v=PkqmVhJN-sM)
     
-    > 2014. [용사 랜덤 레이드](https://cafe.naver.com/w3umf/96687)
+    > 2014) [용사 랜덤 레이드](https://cafe.naver.com/w3umf/96687)
     
-    > 2014. [핵피하기 해탈버전](https://cafe.naver.com/w3umf/98206)
+    > 2014) [핵피하기 해탈버전](https://cafe.naver.com/w3umf/98206)
     
-    > 2015. [랜덤 능력 타워 디펜스 II](https://cafe.naver.com/w3umf/126111) [플레이 영상](https://www.youtube.com/watch?v=uAXJoHmXyaQ) (블리자드 앱 메인에 걸렸던 이력 있음)
+    > 2015) [랜덤 능력 타워 디펜스 II](https://cafe.naver.com/w3umf/126111) [플레이 영상](https://www.youtube.com/watch?v=uAXJoHmXyaQ) (블리자드 앱 메인에 걸렸던 이력 있음)
     
-    > 2015. [Fate Extra Random Defence](https://cafe.naver.com/ferd08110510) [플레이 영상](https://www.youtube.com/watch?v=NrLcn7bQagY)
+    > 2015) [Fate Extra Random Defence](https://cafe.naver.com/ferd08110510) [플레이 영상](https://www.youtube.com/watch?v=NrLcn7bQagY)
     
-    > 2021. [랜덤 능력 탱크 디펜스](https://cafe.naver.com/w3umf/130630) [블로그](https://blog.naver.com/escaco95)
+    > 2021) [랜덤 능력 탱크 디펜스](https://cafe.naver.com/w3umf/130630) [블로그](https://blog.naver.com/escaco95)
 
   - Lua
 
