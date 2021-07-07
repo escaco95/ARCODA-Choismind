@@ -90,7 +90,7 @@
 # 프로젝트
 
  - [GridAnnotationTool](GAT)
-> 산림청에서 임산도 판별 프로젝트를 진행하는 도중, 데이터셋 관리/생성 유틸리티를 제작해 달라는 요청을 받아 C#으로 제작한 툴. 10000x10000에 육박하는, 또는 그보다 큰 이미지를 격자 형태로 잘라 라벨을 수동으로 부여하고 있었는데, 해당 유틸리티 보급 이후 2~3일 정도 소요되던 작업이 4시간 내외로 줄었다.
+> 산림청에서 임산도 판별 프로젝트를 진행하는 도중, 데이터셋 관리/생성 유틸리티를 제작해 달라는 요청을 받아 C#으로 제작한 툴. 10000x10000에 육박하는, 또는 그보다 큰 이미지를 격자 형태로 잘라 라벨을 수동으로 매기고 있던 상황이었다. 해당 유틸리티 보급 이후 2~3일 정도 소요되던 작업이 4시간 내외로 종료되는 성과를 거두었다.
 
 <p align="center">
   <img src="https://github.com/escaco95/ARCODA-Choismind/blob/main/SAMPLE-A.png?raw=true" width="400" height="250"><img src="https://github.com/escaco95/ARCODA-Choismind/blob/main/SAMPLE-B.png?raw=true" width="400" height="250">
