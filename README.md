@@ -5,7 +5,7 @@
 </p>
 <p align="center">
   <a href="https://blog.naver.com/escaco95">
-    <img alt="About me" src="https://img.shields.io/badge/About-me-blue.svg">
+    <img alt="About me" src="https://img.shields.io/badge/About-me-blue.svg"> <img alt="About me" src="https://img.shields.io/badge/And-my-life.svg">
   </a>
 </p>
 
