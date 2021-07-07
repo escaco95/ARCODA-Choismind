@@ -78,6 +78,9 @@
 <p align="center">
   <img src="https://github.com/escaco95/ARCODA-Choismind/blob/main/GeoVision/DeepGeoEvaluator.png?raw=true" width="400" height="250"><img src="https://github.com/escaco95/ARCODA-Choismind/blob/main/GeoVision/GeoVision Task Manager.png?raw=true" width="400" height="250">
 </p>
+<p align="center">
+  <img src="https://github.com/escaco95/ARCODA-Choismind/blob/main/GeoVision/GeoVisionResultSample.gif?raw=true" width="400" height="250">
+</p>
 
 # 취미
 
