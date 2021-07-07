@@ -62,7 +62,7 @@
 
 # 프로젝트
 
- - GridAnnotationTool
+ - [GridAnnotationTool](GAT/README.md)
 > 산림청에서 임산도 판별 프로젝트를 진행하는 도중, 데이터셋 관리/생성 유틸리티를 제작해 달라는 요청을 받아 C#으로 제작한 툴.
 
 
