@@ -71,7 +71,7 @@
 </p>
 
  - [GeoVision](GeoVision)
-> 2019년, 학부 연구실([InfoLab](http://infolab.kunsan.ac.kr/), 구 MCALab)에서 진행한 Urban AI Network 솔루션 중 내가 맡은 SubProject. 해당 대회 시연 당시에는 베타였으며, 이후 교내 대회 출품 시점에서 1.0 완성.
+> 2019년, 학부 연구실([InfoLab](http://infolab.kunsan.ac.kr/), 구 MCALab)에서 진행한 Urban AI Network 솔루션 중 내가 맡은 SubProject. 해당 대회 시연 당시에는 베타였으며, 이후 교내 대회 출품 시점에서 1.0 완성. 블랙박스에 등장하는 도시 개체(가로수,차량,신호등 등)의 시공간 정보를 추출해서 경로를 재구성하고 추적하는 기능을 구현하였다.
 [관련기사1](https://www.ebn.co.kr/news/view/1014791?kind=&key=&shword=&page=4144&period=)
 [관련기사2](https://wowtale.net/2019/12/24/socar-and-kiise-hosted-ai-video-analysis-contest/)
 
