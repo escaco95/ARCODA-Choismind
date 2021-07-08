@@ -1,4 +1,7 @@
-# C#
+<h3 align="center">About C# Study</h3>
+<p align="center">
+  C#에 관한 이야기.
+</p>
 
 - [멀티스레딩](#멀티스레딩)
   - [System.Threading.Thread](#SystemThreadingThread)
