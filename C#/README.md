@@ -18,7 +18,7 @@ C#이 멀티스레드 환경을 구현하기 위해 제공하는 기능들과, �
 
 # System.Threading.Tasks.Task
 
-[레퍼런스](https://docs.microsoft.com/ko-kr/dotnet/api/system.threading.tasks.task?view=net-5.0)에 따르면, `System.Threading.Tasks.Task`는 [System.Threading.ThreadPool](#SystemThreadingThreadPool)를 사용하여 보다 쾌적한 어플리케이션 실행 환경을 제공한다고 한다.
+[레퍼런스](https://docs.microsoft.com/ko-kr/dotnet/api/system.threading.tasks.task?view=net-5.0)에 따르면, `System.Threading.Tasks.Task`는 [System.Threading.ThreadPool](#SystemThreadingThreadPool)을 사용하여 보다 쾌적한 어플리케이션 실행 환경을 제공한다고 한다.
 
 # 멀티스레딩 노하우
 
@@ -35,11 +35,16 @@ C#이 멀티스레드 환경을 구현하기 위해 제공하는 기능들과, �
  - 10,000개의 태스크가 [System.Threading.ThreadPool](#SystemThreadingThreadPool)에 의해 큐로 관리되어, [ThreadPool.SetMaxThreads(...)](https://docs.microsoft.com/ko-kr/dotnet/api/system.threading.threadpool.setmaxthreads?view=net-5.0)로 설정된 만큼만 찔끔찔끔 실행된다. [Context Switching](#Context-Switching)으로 인한 부하가 최소로 발생하도록 적절한 값을 설정하여 위의 방법보다 속도를 높여나가는 게 핵심 노하우라고 할 수 있겠다.
 
 **Conclusion:**
- - [Thread](#SystemThreadingThread)
-  - 개인적인 프로젝트와 조언. Abstraction보다 기본적인 기능을 직접 사용하는 스타일이거나, 충분한 이해를 바탕으로 고도의 Customization을 수행해야 할 때 사용
-  - low-level concept으로 제공되는 모든 기능이 그렇지만, 휴먼 에러의 발생에 보다 더 관심을 기울일 것 
- - [Task](#SystemThreadingTasksTask)
-  - Flow와 사용법을 충분히 이해하고 있다면, 고도로 abstraction되어 있는 다양한 기능을 활용하여 깔끔한 코드의 작성이 가능할 것
-  - 반대로 abstraction에 의해 발생할 수 있는 [Task](#SystemThreadingTasksTask)만의 issue에 대해서도 파악하고 있어야 한다
+
+- [Thread](#SystemThreadingThread)
+ 
+   > 개인적인 프로젝트와 조언. Abstraction보다 기본적인 기능을 직접 사용하는 스타일이거나, 충분한 이해를 바탕으로 고도의 Customization을 수행해야 할 때 사용
+   
+   > low-level concept으로 제공되는 모든 기능이 그렇지만, 휴먼 에러의 발생에 보다 더 관심을 기울일 것 
+   
+- [Task](#SystemThreadingTasksTask)
+ 
+   > Flow와 사용법을 충분히 이해하고 있다면, 고도로 abstraction되어 있는 다양한 기능을 활용하여 깔끔한 코드의 작성이 가능할 것
+   > 반대로 abstraction에 의해 발생할 수 있는 [Task](#SystemThreadingTasksTask)만의 issue에 대해서도 파악하고 있어야 한다
  
  
