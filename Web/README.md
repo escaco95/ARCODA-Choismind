@@ -1,11 +1,13 @@
 # 목차
 
   - [요약](#요약)
-  - [GitHub Emojis API](#GitHub-Emojis-API)
+  - 웹 아이디어
+  - API
+   - [GitHub Emojis API](#GitHub-Emojis-API)
 
 # 요약
 
-개인적으로 유용하다고 생각하는 API를 선정하고 기억하는 공간
+개인적으로 기록할만한 웹 기술 관련 아이디어 및 API를 선정하고 기억하는 공간
 
 **선정하기만 하면 발전은 없다! 공부해라!**
 
