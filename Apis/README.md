@@ -29,7 +29,7 @@ https://api.github.com/emojis
     "+1": "https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png?v8",
     "-1": "https://github.githubassets.com/images/icons/emoji/unicode/1f44e.png?v8",
     "100": "https://github.githubassets.com/images/icons/emoji/unicode/1f4af.png?v8",
-    중략(정말 많다)
+    중략(정말...많다)
     "zombie_woman": "https://github.githubassets.com/images/icons/emoji/unicode/1f9df-2640.png?v8",
     "zzz": "https://github.githubassets.com/images/icons/emoji/unicode/1f4a4.png?v8"
 }
